@@ -1,0 +1,11 @@
+requests~=2.32.4
+pandas~=2.3.0
+scikit-learn==1.5.0
+streamlit~=1.45.1
+python-dotenv==1.0.0
+numpy~=2.3.0
+joblib~=1.5.1
+pydeck~=0.9.1
+pillow~=11.2.1
+matplotlib~=3.10.3
+seaborn~=0.13.2
